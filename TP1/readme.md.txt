@@ -1,8 +1,11 @@
-Este programa lee dos archivos binarios con datos de productos y reparaciones.
-Al ingresar un nombre de cliente, muestra todas las reparaciones que tuvo, los costos involucrados y la ganancia total.
-El programa finaliza al escribir "EOF"
+Este programa lee dos archivos binarios con datos de todas las operaciones realizadas 
+por un broker financiero.
+Transforma los datos brutos de las transacciones en un análisis estructurado que 
+permite a la broker evaluar el rendimiento por tipo de liquidación (Plazo) y lugar 
+de negociación (Bolsa).
 
 Integrantes: 
+
 Cuenca Silingardi, Agustin Nicolas 
 Farias Mondino, Ludmila 
 Jimenez Gomez, Santiago Javier 
